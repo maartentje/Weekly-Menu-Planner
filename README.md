@@ -29,9 +29,11 @@ No login, no internet connection, no ads. Your data stays on your device.
 
 ---
 
-## 🚀 Getting Started
+## 📦 Download
 
-To get started, go to the [releases](https://github.com/maartentje/Weekly-Menu-Planner/releases) page and download the latest APK file.
+👉 [Download the latest version (.apk)](https://github.com/maartentje/Weekly-Menu-Planner/releases/latest)
+
+Check the [changelog](https://github.com/maartentje/Weekly-Menu-Planner/releases) for update info.
 
 ---
 
@@ -45,9 +47,8 @@ To get started, go to the [releases](https://github.com/maartentje/Weekly-Menu-P
 
 ## 🙌 Support the Project
 
-If you like the app and want to support further development, you can  
- [![buy me a coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/StudioSalien)  
-Every bit helps!
+If you like the app and want to support further development, you can <a href="https://ko-fi.com/StudioSalien" target="_blank">buy me a coffee</a>. Every bit helps!
+
 
 ---
 
